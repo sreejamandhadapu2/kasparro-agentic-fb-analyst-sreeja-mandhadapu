@@ -1,0 +1,17 @@
+[
+  {
+    "hypothesis": "ROAS is influenced by creative type performance.",
+    "evidence": "Best performing creative type: UGC",
+    "validated_confidence": 0.75
+  },
+  {
+    "hypothesis": "Campaign with lowest CTR may be pulling overall ROAS down.",
+    "evidence": "Lowest CTR campaign: WOMEN Cotton Classics",
+    "validated_confidence": 0.7
+  },
+  {
+    "hypothesis": "ROAS fluctuations may be due to inconsistent spend efficiency.",
+    "evidence": "Average spend: 478.9319288888888",
+    "validated_confidence": 0.65
+  }
+]
