@@ -43,7 +43,7 @@ sql
 Copy code
 
 Run full pipeline:
-python src/orchestrator/run.py --config config/config.yaml
+python run.py
 
 yaml
 Copy code
