@@ -78,4 +78,4 @@ Final marketer-friendly report summarizing:
 - **Release Tag:** v1.0  
 - **Pull Request:** self-review  
 - **Command Used:**  
-python src/orchestrator/run.py --config config/config.yaml
+python run.py
